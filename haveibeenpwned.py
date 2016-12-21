@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# Author = Laurens Houben
 # TODO:
 # - Retrieve breached domain from response in case of a breach:
 #   Example response for blup@blup.com:
