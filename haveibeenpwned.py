@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Author = Laurens Houben
+# Contact = https://www.linkedin.com/in/laurenshouben
 # TODO:
 # - Retrieve breached domain from response in case of a breach:
 #   Example response for blup@blup.com:
